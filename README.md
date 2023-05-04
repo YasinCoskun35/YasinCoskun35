@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
-<h3 align="center">A passionate backend developer from Turkey.</h3>
+<h3 align="center">Software Engineer from Turkey.</h3>
 
 - 💬 Ask me about **.NET CORE**
 
